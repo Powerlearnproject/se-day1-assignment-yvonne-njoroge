@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 software engineering is the process of developing solutions to real life problems using computer technology.
-importance of software technology is to enable creation of software applocations and systems that power various aspects of modern life like healthcare and communication
+importance of software technology is to enable creation of software applications and systems that power various aspects of modern life like healthcare and communication
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 development of programming languages e.g C++ c
