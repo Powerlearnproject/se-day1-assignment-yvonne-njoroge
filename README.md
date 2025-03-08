@@ -15,7 +15,7 @@ the rise of agile methodologies in 2000s
 
 List and briefly explain the phases of the Software Development Life Cycle.
 Requirements-this is where the user needs and system requirements are gathered and documented
-Design- the user interface design and software architecture is created
+Design- the user interface design and software architecture is created 
 Implementation- writing code and building the software based on design specifications on the design phase
 Testing -Conducting various tests to ensure the software meetsthe user needs and functional requirements.
 Deployment- releasing the software to users and customers and obtain feedback
